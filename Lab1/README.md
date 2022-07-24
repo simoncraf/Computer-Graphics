@@ -13,4 +13,4 @@ Pressing the F key fills or empties the figures (only the last one that has just
 Pressing the R key deletes all the drawings.
 Pressing D we undo the last figure, although for now it fails with the triangle not interpolated because of how I'm saving the states.
 With the space bar we change the color with which we draw.
-With the key I we change the colors for the interpolation.
+With the I key the colors for the interpolation change.
