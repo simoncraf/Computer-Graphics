@@ -1,7 +1,7 @@
-LAB 2 - SIMONE GIGANTE GASSO NIA:205702
+LAB 2 - SIMONE GIGANTE GASSO 
 
-Todos los ejercicios funcionan tal y como pide el enunciado.
-Para cambiar de modalidad hay que utilizar los numeros (del 1 al 5):
+All the exercises work just as the statement asks.
+To change the mode you have to use the numbers (from 1 to 5):
 
 1 - DDA Lines
 2 - Bresenham Lines
@@ -9,8 +9,8 @@ Para cambiar de modalidad hay que utilizar los numeros (del 1 al 5):
 4 - Triangle
 5 - Interpolated triangle
 
-Presionando la tecla F se llenan (fill) o vacian las figuras (solo la ultima que se acaba de dibujar y las futuras).
-Presionando la tecla R borramos todos los dibujos.
-Presionando D deshacemos la ultima figura, aunque por ahora falla con el triangulo no interpolado por como estoy guardando los estados.
-Con la barra espaciadora cambiamos el color con el que dibujamos.
-COn la tecla I cambiamos los colores para la interpolacion.
+Pressing the F key fills or empties the figures (only the last one that has just been drawn and the future ones).
+Pressing the R key deletes all the drawings.
+Pressing D we undo the last figure, although for now it fails with the triangle not interpolated because of how I'm saving the states.
+With the space bar we change the color with which we draw.
+With the key I we change the colors for the interpolation.
